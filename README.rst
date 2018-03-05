@@ -16,19 +16,19 @@ Links
 - Feel free to `tip me <https://gratipay.com/femtotrader/>`__!
 - Official Pandas DataReader can be found at https://github.com/pydata/pandas-datareader
 
-.. |Latest Version| image:: https://pypip.in/version/pandas_datareaders_unofficial/badge.svg
+.. |Latest Version| image:: https://img.shields.io/pypi/v/pandas_datareaders_unofficial.svg
     :target: https://pypi.python.org/pypi/pandas_datareaders_unofficial/
 
-.. |Supported Python versions| image:: https://pypip.in/py_versions/pandas_datareaders_unofficial/badge.svg
+.. |Supported Python versions| image:: https://img.shields.io/pypi/pyversions/pandas_datareaders_unofficial.svg
     :target: https://pypi.python.org/pypi/pandas_datareaders_unofficial/
 
-.. |Download format| image:: https://pypip.in/format/pandas_datareaders_unofficial/badge.svg
+.. |Download format| image:: https://img.shields.io/pypi/format/pandas_datareaders_unofficial.svg
     :target: https://pypi.python.org/pypi/pandas_datareaders_unofficial/
 
-.. |License| image:: https://pypip.in/license/pandas_datareaders_unofficial/badge.svg
+.. |License| image:: https://img.shields.io/pypi/l/pandas_datareaders_unofficial.svg
     :target: https://pypi.python.org/pypi/pandas_datareaders_unofficial/
 
-.. |Development Status| image:: https://pypip.in/status/pandas_datareaders_unofficial/badge.svg
+.. |Development Status| image:: https://img.shields.io/pypi/status/pandas_datareaders_unofficial.svg
     :target: https://pypi.python.org/pypi/pandas_datareaders_unofficial/
 
 .. |Gitter| image:: https://badges.gitter.im/Join%20Chat.svg
